@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0BA7EE79-BBC3-4143-9F9D-4EA44B438B72}</ProjectGuid>
+    <ProjectGuid>{3073A827-E2B0-4FCD-AFCB-056971402873}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XBaseCore</RootNamespace>
-    <AssemblyName>XBaseCore</AssemblyName>
+    <RootNamespace>XBaseCommonClasses</RootNamespace>
+    <AssemblyName>XBaseCommonClasses</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
